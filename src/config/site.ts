@@ -4,7 +4,7 @@ export const SITE = {
   email: 'support@estivoxx.com',
   companyName: 'Estivoxx Technologies',
   parent: { name: 'Estuscia Group', url: 'https://www.estusciagroup.com/' },
-  location: 'Hilte Business Part',
+  location: 'Hilite Business Park, Calicut, Kerala, India',
   privacyUrl: 'https://www.estivoxx.com/privacy',
   termsUrl: 'https://www.estivoxx.com/terms',
   socials: [] as { label: string; href: string }[], // add verified social links here
